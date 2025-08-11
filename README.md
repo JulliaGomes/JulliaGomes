@@ -1,7 +1,7 @@
 
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&weight=500&size=27&duration=2500&pause=100&color=8d192b&center=true&vCenter=true&multiline=true&width=524&height=100&lines=Muito+Prazer;%E2%99%9C+Eu+sou+o+Phelipe+%E2%99%9e](https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&weight=500&size=27&duration=2500&pause=100&color=8d192b&center=true&vCenter=true&multiline=true&width=524&height=100&lines=Ola!;+Eu+sou+o+JUJU BALA TENSA+" alt="Typing SVG" /></a> 
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&weight=500&size=27&duration=2500&pause=100&color=8d192b&center=true&vCenter=true&multiline=true&width=524&height=100&lines=Muito+Prazer;%E2%99%9C+Eu+sou+o+Phelipe+%E2%99%9e](https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&weight=500&size=27&duration=2500&pause=100&color=8d192b&center=true&vCenter=true&multiline=true&width=524&height=100&lines=Ola!;+Eu+sou+o+JUJU+BALA+TENSA+" alt="Typing SVG" /></a> 
 </div>
 
 ## 🚀 Sobre mim
