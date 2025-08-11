@@ -1,7 +1,7 @@
 
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?(https://readme-typing-svg.demolab.com?font=Playfair Display+Single&weight=500&size=27&duration=2500&pause=100&color=8d192b&center=true&vCenter=true&multiline=true&width=524&height=100&lines=Olá!+🤍;+Eu+sou+a+Jullia+" alt="Typing SVG" /></a> 
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?(https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&weight=500&size=27&duration=2500&pause=100&color=FF69B4&center=true&vCenter=true&multiline=true&width=524&height=100&lines=Olá!+🤍;+Eu+sou+a+Jullia+" alt="Typing SVG" /></a> 
 </div>
 
 ## 🚀 Sobre mim
