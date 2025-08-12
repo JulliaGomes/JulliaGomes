@@ -1,4 +1,6 @@
-
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet">
 
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?(https://readme-typing-svg.demolab.com?font=Playfair+ Display&weight=500&size=27&duration=2500&pause=100&color=ff69b4&center=true&vCenter=true&multiline=true&width=524&height=100&lines=Ola!+:);+Eu+sou+a+Jullia+" alt="Typing SVG" /></a> 
