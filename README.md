@@ -1,6 +1,6 @@
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?(https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=27&duration=2500&pause=100&color=ff69b4&center=true&vCenter=true&multiline=true&width=524&height=100&lines=Ola!+:);+Eu+sou+a+Jullia+" alt="Typing SVG" /></a> 
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?(https://readme-typing-svg.demolab.com?font=Playwrite+Australia+QLD&weight=500&size=27&duration=2500&pause=100&color=ff69b4&center=true&vCenter=true&multiline=true&width=524&height=100&lines=Ola!+:);+Eu+sou+a+Jullia+" alt="Typing SVG" /></a> 
 </div>
 
 ## 🎀 Sobre mim
