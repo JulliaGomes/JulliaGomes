@@ -4,7 +4,7 @@
 </div>
 
 ## 🎀 Sobre mim
-Estudante de Sistema de Informação na UFV. Sou apaixonada por tecnologia e me interesso por desenvolvimento de software
+Estudante de Sistema de Informação na UFV. Sou apaixonada por tecnologia e me interesso por desenvolvimento e qualidade de software
 
 
 ## 💻 Habilidades
